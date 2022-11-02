@@ -1,0 +1,20 @@
+Assignment 5: 
+Using express and sequalize user table (username,email ,password,age ,address)
+ 
+1_ add user 
+2_ update user by id 
+3_ delete user by id 
+4_get user by id (with his products using include)
+5_get all users list(with their products using include)
+6_ get all user by age between  x any y for example 20,26
+7_get all user by name start with x for example  mahm
+8_ get users age less than x for example  25
+9_get all users age greater than x for example  30
+=======
+Create product table (productid,name ,price ,description, CreatedBy == User id )
+10 _ get all product list
+11_ add product
+12_ delete product by id
+13_get product by id and display product createdBy  information like username and email 
+14_update product by id
+15_search product by name
